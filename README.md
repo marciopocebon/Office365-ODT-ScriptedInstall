@@ -1,4 +1,4 @@
-# Office365ScriptedInstall
+# Office365-ODT-ScriptedInstall
 Scripted method for deploying Office 365 Desktop Application
 
 All that should be needed is the scripts. This one should work fine for most: https://github.com/GoVanguard/Office365ScriptedInstall/blob/master/officedeploymenttool_O365ProPlusRetailx64_silent.cmd
