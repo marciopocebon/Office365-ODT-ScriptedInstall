@@ -1,6 +1,8 @@
 # Office365ScriptedInstall
 Scripted method for deploying Office 365 Desktop Application
 
+Use at your own risk!
+
 Office Deployment Tool
 
 Download
